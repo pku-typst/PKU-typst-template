@@ -7,6 +7,7 @@ PKG_PREFIX="PKU-Typst-Template"
 # List of all files that get packaged
 files=(
   templates/
+  utils/
   lib.typ
   typst.toml
   LICENSE

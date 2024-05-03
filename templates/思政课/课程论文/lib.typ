@@ -1,5 +1,5 @@
 #import "../../../utils/zihao.typ": *
-#import "@local/numblex:0.1.0": *
+#import "@preview/numblex:0.1.0": *
 
 #let 黑体 = "SimHei"
 #let 微软雅黑 = "Microsoft YaHei"

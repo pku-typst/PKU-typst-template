@@ -1,5 +1,6 @@
 #import "@preview/linguify:0.4.1": load_ftl_data, linguify
 #import "themes/simple.typ" as simple
+#import "themes/sketch.typ" as sketch
 
 #let languages = (
   "zh",
@@ -13,6 +14,7 @@
 ///   other: (doc) -> content
 #let themes = (
   simple: simple,
+  sketch: sketch,
 )
 #let available_themes = themes.keys()
 

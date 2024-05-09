@@ -56,4 +56,5 @@
     level: 2,
   )
   solution
+  pagebreak(weak: true)
 }

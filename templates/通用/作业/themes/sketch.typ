@@ -26,7 +26,7 @@
     text(
       title,
       size: 36pt,
-      font: ("Sentinel Pro", "SimSun"),
+      font: ("Courier New", "SimSun"),
       baseline: -0.6em,
     ),
   )
@@ -40,7 +40,7 @@
   let info = box([
     #set text(
       size: 20pt,
-      font: ("Sentinel Pro", "SimSun"),
+      font: ("Courier New", "SimSun"),
       baseline: 1em,
     )
     #set align(horizon)
